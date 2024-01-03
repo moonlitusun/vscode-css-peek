@@ -95,7 +95,7 @@ export default function findSelector(
         attribute = htmlScanner.getTokenText().toLowerCase();
 
         // Convert the attribute to a standard class attribute
-        if (attribute === "classname") {
+        if (attribute === "classname" || attribute === 'stylename') {
           attribute = "class";
         }
 

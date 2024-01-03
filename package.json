@@ -1,6 +1,6 @@
 {
-  "name": "vscode-css-peek",
-  "displayName": "CSS Peek",
+  "name": "dz-web-vscode-css-peek",
+  "displayName": "DZ-Web CSS Peek",
   "description": "Allow peeking to css ID and class strings as definitions from html files to respective CSS. Allows peek and goto definition.",
   "author": "Pranay Prakash <pranay.gp@gmail.com>",
   "icon": "css_peek_icon.png",
